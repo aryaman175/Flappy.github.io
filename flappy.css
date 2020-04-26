@@ -25,9 +25,10 @@ button
 	font-size: 40px;
 
 }
-p
+#rule
 {
-	border:none;
 	position:absolute;
-	
+	top :100px;
+	left:70%;
+	font-size: 30px;
 }
