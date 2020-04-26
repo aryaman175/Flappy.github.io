@@ -1,0 +1,33 @@
+#score
+{
+	position: absolute;
+	top: 675px;
+}
+button
+{
+	position: absolute;
+	top: 695px;
+	left:600px;
+	font-size: 30px;
+}
+
+#highscore
+{
+	position: absolute;
+	top: 675px;
+	left: 200px;
+}
+
+#head
+{
+	font-family: cursive;
+	border:none;
+	font-size: 40px;
+
+}
+p
+{
+	border:none;
+	position:absolute;
+	
+}
